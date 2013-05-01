@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.vijaykiran.processing</groupId>
+  <artifactId>org.processing.core</artifactId>
+  <version>2.0b8</version>
+  <name>core-2.0b8.jar</name>
+  <description>Processing.org Core 2.0b8</description>
+  <licenses>
+    <license>
+      <name>Lesser General Public License</name>
+      <url>http://opensource.org/licenses/lgpl-license.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <repositories>
+    <repository>
+      <id>clojars</id>
+      <url>http://clojars.org/repo/</url>
+    </repository>
+  </repositories>
+</project>
